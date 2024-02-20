@@ -1,0 +1,12 @@
+{
+  "dbUrl": "jdbc:postgresql://127.0.0.1:55555/my_test_database",
+  "InitDBSql": "src/main/resources/sql/init_db.sql",
+  "PopulateDBSql": "src/main/resources/sql/populate_db.sql",
+  "PrintProjectPriceQuerySql": "src/main/resources/sql/print_project_prices.sql",
+  "FindYoungestOldestWorkersQuerySql": "src/main/resources/sql/find_youngest_eldest_workers.sql",
+  "FindMaxSalaryWorkerQuerySql": "src/main/resources/sql/find_max_salary_worker.sql",
+  "FindMaxProjectClientQuerySql": "src/main/resources/sql/find_max_projects_client.sql",
+  "FindLongestProjectQuerySql": "src/main/resources/sql/find_longest_project.sql",
+  "dbUser": "postgres",
+  "dbPass": "12345"
+}
